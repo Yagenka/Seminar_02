@@ -16,6 +16,21 @@ git clone https­­://­­gi­t­h­ub.c­o­­m/u­­se­r­/­re­­po.git
 
 * Git - история
 
+Показать все фиксации
+git log
+Краткий формат предыдущей команды
+git log --pret­­ty­=­short
+Патчи
+git log -p
+Показать фиксации файла
+git log file
+Показать фиксации в директории
+git log dir/
+Состояния
+git log --stat
+Посмотреть автора изменений файла
+git blame file
+
 * Git - слияни­е/п­еребаза
 
 * Git - обновл­ени­е/п­убл­икация
