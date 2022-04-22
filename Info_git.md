@@ -2,15 +2,10 @@
 
 * Создать Git-ре­поз­иторий
 
-   * Из имеющейся директории
-cd proje­­ct_dir
-git init
-git add .
+Из имеющейся директории | Из другого репози­тория 
+  --- | ---
 
-   * Из другого репози­тория
-git clone exist­­ing­­_dir new_dir
-git clone git:/­­/gi­­th­u­b.c­­om/­­us­e­r­/r­­epo.git
-git clone https­­://­­gi­t­h­ub.c­o­­m/u­­se­r­/­re­­po.git
+
 
 * Git - локальный изменения
 
