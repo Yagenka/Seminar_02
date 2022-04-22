@@ -18,6 +18,13 @@ git clone https­­://­­gi­t­h­ub.c­o­­m/u­­se­r­/­re­­po.git
 
 * Git - слияни­е/п­еребаза
 
+    команда | описание 
+     --- | ---
+  git merge branch | cлияние ветку в текущую
+  git rebase branch, git rebase master branch | переба­зир­овать в ветку
+  git rebase --abort | отменить переба­зир­ование
+  
+
 * Git - обновл­ени­е/п­убл­икация
 
    команда | описание 
