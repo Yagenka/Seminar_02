@@ -18,23 +18,12 @@ git clone https­­://­­gi­t­h­ub.c­o­­m/u­­se­r­/­re­­po.git
 
 * Git - слияни­е/п­еребаза
 
-Слияние ветку в текущую
-git merge branch
-Переба­зир­овать в ветку
-gir rebase branch
-git rebase master branch
-Отменить переба­зир­ование
-git rebase --abort
-Инструмент слияния для разрешения конфликтов
-git mergetool
-Конфликты против файла базы
-git diff --base file
-Diff изменений, сделанных другими людьми
-git diff --theirs file
-Diff ваших действий
-git diff --ours file
-После решения конфликтов
-git rebase --continue
+    команда | описание 
+     --- | ---
+  git merge branch | cлияние ветку в текущую
+  git rebase branch, git rebase master branch | переба­зир­овать в ветку
+  git rebase --abort | отменить переба­зир­ование
+  
 
 * Git - обновл­ени­е/п­убл­икация
 
